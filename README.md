@@ -1,1 +1,2 @@
-# social_survey
+# Understanding the Socio-Economic Dynamics of Political Affiliation in Norway Using SHAP: Insights from European Social Survey 10
+This project investigates the socio-economic factors influencing political affiliation in Norway, using data from the European Social Survey (ESS) 10. The study employs machine learning models, with the XGBoost regressor achieving the best performance in predicting political leaning on a 0–10 left-right scale. Using SHAP (SHapley Additive exPlanations), the analysis reveals key features driving political attitudes, including income inequality, immigration, and opinions on European Union unification
